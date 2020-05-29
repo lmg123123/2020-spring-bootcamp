@@ -1,7 +1,7 @@
 ## Week 2 - Numpy & Pandas
 
 ### Video Download - 坚果云
-第一部分视频还在处理
+[Numpy 1](https://pan.baidu.com/s/1QXQYOLzstpcwoszZdhucBg)  提取码: x1q2
 [Numpy 2 and Pandas](https://www.jianguoyun.com/p/DcBOefUQzpi5CBig8JwD)
 
 
