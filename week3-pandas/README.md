@@ -1,4 +1,4 @@
-## Week 2 - Numpy & Pandas
+## Week 3 - Pandas 2
 
 ### Video Download - 坚果云
 [Pandas2 and data modeling start](https://www.jianguoyun.com/p/Dauqng8Qzpi5CBjel58D)
