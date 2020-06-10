@@ -3,7 +3,7 @@
 ### Video Download - 坚果云
 [Data Modeling](https://www.jianguoyun.com/p/DfoIaDYQzpi5CBjwy6AD)
 
-[Project 1] (https://www.jianguoyun.com/p/Dd1lUAwQzpi5CBjxy6AD)
+[Project 1](https://www.jianguoyun.com/p/Dd1lUAwQzpi5CBjxy6AD)
 
 
 ### Project - Class 1
