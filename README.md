@@ -14,7 +14,7 @@
 | 3 | Mike | 5/24 | 9PM - 11PM | Numpy, Pandas|
 | 4 | Anna | 5/30 | 9AM - 11AM | Web |
 | 5 | Mike | 6/6 | 9AM - 11AM | Data Modeling |
-| 5 | Mike | 6/7 | 9PM - 11PM | Databases |
+| 5 | Anna | 6/7 | 9PM - 11PM | Databases |
 | 6 | Mike | 6/13 | 9AM - 11AM | Strategy / Application  |
 | 6 | Mike | 6/14 | 9PM - 11PM | Application, Course Review |
 
